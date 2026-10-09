@@ -4,7 +4,6 @@
 /* printf */
 #include <stdio.h>
 
-
 /**
   * isValidStep - validates next possible step in a maze map grid
   *
